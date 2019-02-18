@@ -1,6 +1,4 @@
-# Zabbix-template-for-Microsoft-Windows-Server
-
-Zabbix template for Microsoft Windows Server.
+# Zabbix template for Microsoft Windows Server
 
 Features:
   Performance counters.

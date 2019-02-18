@@ -2,7 +2,7 @@
 
 Features: Performance counters, CPU Low Level Discovery, Mounted file system Low Level Discovery.
 
-Differences from s default Windows OS template: CPU's discovery and triggers per CPU's, Mounted file system discovery and triggers per logical disk, More items and triggers prototypes for Mounted file system discovery, Triggers are oriented for Microsoft Windows Server running Microsoft SQL Server.
+Differences from a default Windows OS template: CPU's discovery and triggers per CPU's, Mounted file system discovery and triggers per logical disk, More items and triggers prototypes for Mounted file system discovery, Triggers are oriented for Microsoft Windows Server running Microsoft SQL Server.
 
 Missing: Network interface items.
 
